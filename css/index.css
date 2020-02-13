@@ -1,0 +1,23 @@
+h2{
+  color: #fff;
+  text-shadow: 2px 2px 0 #000;
+  text-decoration: none;
+  font-size: 5em;
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	background-image: linear-gradient(to bottom, #33ff, #cf7693);
+}
+
+.modal, .modal-body, .modal-heading, .modal-header{
+	color: white;
+	background-color: #015988;
+}
+
+button{
+	color: white;
+}
